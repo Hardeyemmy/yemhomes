@@ -1,0 +1,36 @@
+[
+    {
+    "id": 1,
+    "adderess": "13, orkile street, Ibadan",
+    "country": "Nigeria",
+    "description": "A fully detached two bedroom bungalow",
+    "price": 2500000,
+    "photo": "100023"
+    },
+
+    {
+    "id": 1,
+    "adderess": "1, Agbegunde street, Oyo",
+    "country": "Nigeria",
+    "description": "A fully ensuite three bedroom duplex",
+    "price": 10000000,
+    "photo": "250087"
+    },
+
+    {
+    "id": 3,
+    "adderess": "45, Adeyemi close, mokola, Ibadan",
+    "country": "Nigeria",
+    "description": "An oceanview luxury mansion, with theatre, sport centre and swimming pool",
+    "price": 70000000,
+    "photo": "4000546"
+    },
+    {
+    "id": 1,
+    "adderess": "23, Olowolagba cresent, Ibadan",
+    "country": "Nigeria",
+    "description": " A room and parlour self contain",
+    "price": 5000000,
+    "photo": "350023"
+    }
+]
